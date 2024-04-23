@@ -3,6 +3,8 @@
 This interactive Tableau dashboard provides a comprehensive analysis of the pharmaceutical market based on various parameters including drug types distribution, marketing trends, categories, and active ingredient strengths.
 
 Viz Link : https://public.tableau.com/views/DrugMarketingDistributiondashboardbyprathap/Dashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link  - Dashboard
+
+
 https://public.tableau.com/views/UnveilingTrendsandpatternsinUSHealthcare-Storybyprathap/Story?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link - Story
 
 Dashboard includes
